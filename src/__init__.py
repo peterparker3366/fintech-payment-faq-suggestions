@@ -1,0 +1,1 @@
+"""Fintech FAQ example package."""
